@@ -1,0 +1,28 @@
+---
+title: "Spectral properties of the Laplacian of temporal networks following a
+    constant block Jacobi model"
+output: html_document
+date: "2024-03-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This document walks the reader through the codes needed to reproduce the example presented in the paper. It takes advantage of the underlying SGNprops package build for this purpose. 
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
